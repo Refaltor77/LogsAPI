@@ -15,3 +15,5 @@ print(debug('Waw !'))
 print(error('Waw !'))
 print(critical('Waw !'))
 ```
+
+![logs](logs.png)
